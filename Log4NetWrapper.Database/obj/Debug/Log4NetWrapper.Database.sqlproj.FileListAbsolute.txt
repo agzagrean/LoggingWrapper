@@ -1,0 +1,5 @@
+E:\@mine\Log\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.dacpac
+E:\@mine\Log\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.dll
+E:\@mine\Log\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.pdb
+E:\@mine\Log\Log4NetWrapper.Database\obj\Debug\Log4NetWrapper.Database.dll
+E:\@mine\Log\Log4NetWrapper.Database\obj\Debug\Log4NetWrapper.Database.pdb
