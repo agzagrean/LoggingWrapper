@@ -3,3 +3,12 @@ E:\@mine\Log\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.dll
 E:\@mine\Log\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.pdb
 E:\@mine\Log\Log4NetWrapper.Database\obj\Debug\Log4NetWrapper.Database.dll
 E:\@mine\Log\Log4NetWrapper.Database\obj\Debug\Log4NetWrapper.Database.pdb
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.dacpac
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.dll
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\bin\Debug\Log4NetWrapper.Database.pdb
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\obj\Debug\Log4NetWrapper.Database.dll
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\obj\Debug\Log4NetWrapper.Database.pdb
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\obj\Debug\Model.xml
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\obj\Debug\refactor.xml
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\obj\Debug\postdeploy.sql
+C:\_mine\PersonalRepo\LoggingWrapper\Log4NetWrapper.Database\obj\Debug\predeploy.sql
