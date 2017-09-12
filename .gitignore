@@ -11,3 +11,6 @@
 /Log4NetWrapper.TestApp/obj
 /Log4NetWrapper.UnitTests/bin
 /Log4NetWrapper.UnitTests/obj
+/.vs/*
+/Log4NetWrapper.Database/bin
+/Log4NetWrapper.Database/obj
