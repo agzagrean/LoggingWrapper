@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetWrapper.Dal", "Log4NetWrapper.Dal\Log4NetWrapper.Dal.csproj", "{3548C8EB-6ABD-460D-A79B-9D3E98F6E3D9}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetWrapper.UnitTests", "Log4NetWrapper.UnitTests\Log4NetWrapper.UnitTests.csproj", "{49B03911-3EF0-4495-AD7D-325C4A36A9DE}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Log4NetWrapper.Database", "Log4NetWrapper.Database\Log4NetWrapper.Database.sqlproj", "{7186BB90-F6EC-4E0E-BAAF-EF24613DDEFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{6E9FB305-B90E-4886-8F7B-FF0577E47252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,5 +58,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E7C238-0008-463C-BB38-B3B6884C6EC8}
 	EndGlobalSection
 EndGlobal

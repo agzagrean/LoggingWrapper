@@ -7,8 +7,8 @@
     <ProjectGuid>{EC27B8AC-A480-4135-AC9D-E02C7F20901D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Iris.Logging.Logic</RootNamespace>
-    <AssemblyName>Iris.Logging.Logic</AssemblyName>
+    <RootNamespace>Logging.Logic</RootNamespace>
+    <AssemblyName>Logging.Logic</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

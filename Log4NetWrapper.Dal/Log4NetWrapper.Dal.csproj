@@ -7,8 +7,8 @@
     <ProjectGuid>{3548C8EB-6ABD-460D-A79B-9D3E98F6E3D9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Iris.Logging.Dal</RootNamespace>
-    <AssemblyName>Iris.Logging.Dal</AssemblyName>
+    <RootNamespace>Logging.Dal</RootNamespace>
+    <AssemblyName>Logging.Dal</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

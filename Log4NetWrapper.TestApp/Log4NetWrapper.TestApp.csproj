@@ -7,8 +7,8 @@
     <ProjectGuid>{D5FABD00-6AD8-4191-B2D3-E91D69F3F126}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Iris.Logging.TestApp</RootNamespace>
-    <AssemblyName>Iris.Logging.TestApp</AssemblyName>
+    <RootNamespace>Logging.TestApp</RootNamespace>
+    <AssemblyName>Logging.TestApp</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
